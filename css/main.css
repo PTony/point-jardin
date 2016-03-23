@@ -16,8 +16,9 @@ header {
 article div {
     padding: 5px 5px 0px 0px;
     height: 150px;
-    margin: 3px 3px 0px 0px;
 }
+
+
 article#mineral div {
     background: url(../img/gros_galets.jpg);
 }
