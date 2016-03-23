@@ -9,6 +9,29 @@ header.col-md-12 {
 div.row {
     background: white;
 }
+header {
+    background: url(../img/background.jpg);
+    height: 300px;
+}
+article div {
+    padding: 5px 5px 0px 0px;
+    height: 150px;
+    margin: 3px 3px 0px 0px;
+}
+article#mineral div {
+    background: url(../img/gros_galets.jpg);
+}
+
+article#vegetal div {
+    background: url(../img/ecorces.jpg);
+}
+
+article#accessoires div {
+    background: url(../img/gazon_synthetique.jpg);
+}
+article#services div {
+    background: url(../img/camion.jpg);
+}
 footer {
     background: white;
 }
