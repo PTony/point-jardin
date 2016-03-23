@@ -1,10 +1,18 @@
 body  {
-    width: 600px;
-    margin: auto;
     background-color: #DDD;
-    
+}
+
+header.col-md-12 {
+    padding: 0px;
 }
 
 article {
     background: white;
+}
+footer {
+    background: white;
+}
+
+footer h2 {
+    font-size: 1.5em;
 }
