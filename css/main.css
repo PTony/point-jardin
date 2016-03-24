@@ -12,28 +12,33 @@ div.row {
     background: white;
 }
 header {
-    background: url(../img/background.jpg);
-    height: 300px;
+    background: url(/wcs/point-jardin/img/background.jpg);
+    background-size: cover;
+    height: 600px;
 }
 article div {
     padding: 5px 5px 0px 0px;
-    height: 150px;
+    height: 200px;
 }
 
 
 article#mineral div {
-    background: url(../img/gros_galets.jpg);
+    background: url(/wcs/point-jardin//img/gros_galets.jpg);
+    background-size: cover;
 }
 
 article#vegetal div {
-    background: url(../img/ecorces.jpg);
+    background: url(/wcs/point-jardin//img/ecorces.jpg);
+    background-size: cover;
 }
 
 article#accessoires div {
-    background: url(../img/gazon_synthetique.jpg);
+    background: url(/wcs/point-jardin//img/gazon_synthetique.jpg);
+    background-size: cover;
 }
 article#services div {
-    background: url(../img/camion.jpg);
+    background: url(/wcs/point-jardin//img/camion.jpg) center left ;
+    background-size: cover;
 }
 footer {
     background: white;
