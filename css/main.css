@@ -22,23 +22,48 @@ article div {
 }
 
 
-article#mineral div {
+article#mineral > div {
     background: url(/wcs/point-jardin//img/gros_galets.jpg);
     background-size: cover;
+    position: relative;
 }
 
-article#vegetal div {
+article#vegetal > div {
     background: url(/wcs/point-jardin//img/ecorces.jpg);
     background-size: cover;
+    position: relative;
 }
 
-article#accessoires div {
+article#accessoires > div {
     background: url(/wcs/point-jardin//img/gazon_synthetique.jpg);
     background-size: cover;
+    position: relative;
 }
-article#services div {
+
+
+article#services > div {
     background: url(/wcs/point-jardin//img/camion.jpg) center left ;
     background-size: cover;
+    position: relative;
+
+}
+
+article div .fond{
+  position: absolute;
+  background-color: #FFFFFF;
+  opacity: 0.5;
+  height: 100%;
+  width: 100%;
+  top: 0%;
+  left: 0%;
+}
+
+article div .text{
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
 }
 footer {
     background: white;
