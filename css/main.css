@@ -42,3 +42,27 @@ footer {
 footer h2 {
     font-size: 1.5em;
 }
+
+footer div.map {
+    padding-top: 22px;
+}
+
+div.footer2 {
+    background-color: #616972;
+    font-size: 10px;
+    text-align: center;
+}
+
+div.footer2 ul {
+    margin: 10px 0;
+}
+
+div.footer2 li {
+    display: inline;
+    list-style-type:none;
+    margin: 0px 10px 0px 0px;
+}
+
+div.footer2 a {
+    color: #FFFFFF;
+}
