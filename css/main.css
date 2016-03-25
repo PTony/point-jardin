@@ -16,6 +16,16 @@ header {
     background-size: cover;
     height: 600px;
 }
+header h1 img{
+    margin-top: 65px;
+}
+
+.logo_devis_gratuit {
+    top: 50px;
+    right: 8px;
+    position: absolute;
+}
+
 article div {
     padding: 5px 5px 0px 0px;
     height: 200px;
