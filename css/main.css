@@ -12,7 +12,7 @@ div.row {
     background: white;
 }
 header {
-    background: url(/wcs/point-jardin/img/background.jpg);
+    background: url(../img/background.jpg);
     background-size: cover;
     height: 600px;
 }
@@ -64,26 +64,26 @@ article div.text a {
 
 
 article#mineral > div {
-    background: url(/wcs/point-jardin//img/gros_galets.jpg);
+    background: url(../img/gros_galets.jpg);
     background-size: cover;
     position: relative;
 }
 
 article#vegetal > div {
-    background: url(/wcs/point-jardin//img/ecorces.jpg);
+    background: url(../img/ecorces.jpg);
     background-size: cover;
     position: relative;
 }
 
 article#accessoires > div {
-    background: url(/wcs/point-jardin//img/gazon_synthetique.jpg);
+    background: url(../img/gazon_synthetique.jpg);
     background-size: cover;
     position: relative;
 }
 
 
 article#services > div {
-    background: url(/wcs/point-jardin//img/camion.jpg) center left ;
+    background: url(../img/camion.jpg) center left ;
     background-size: cover;
     position: relative;
 
