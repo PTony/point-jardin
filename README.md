@@ -9,13 +9,13 @@ Ce projet a était réaliser en binôme en 6 demi-journées.
 ## Capture d'écrans
 
 **Largeur d'écran 1920 px (PC de bureau)**
-![Capture Accueil Point-Jardin sur largeur 1920px]()
+![Capture Accueil Point-Jardin sur largeur 1920px](https://raw.githubusercontent.com/PTony/point-jardin/master/screenshots/screenshot_Accueil%20-%20Point-Jardin_-_1920px_-_20160831100321.png)
 
 **Largeur d'écran 1024 px (ipad)**
-![Capture Accueil Point-Jardin sur largeur 1024px]()
+![Capture Accueil Point-Jardin sur largeur 1024px](https://raw.githubusercontent.com/PTony/point-jardin/master/screenshots/screenshot_Accueil%20-%20Point-Jardin_-_1024px_-_20160831100523.png)
 
 **Largeur d'écran 667 px (iphone 6)**
-![Capture Accueil Point-Jardin sur largeur 667px]()
+![Capture Accueil Point-Jardin sur largeur 667px](https://raw.githubusercontent.com/PTony/point-jardin/master/screenshots/screenshot_Accueil%20-%20Point-Jardin_-_667px_-_20160831100633.png)
 
 
 La page est consultable à cette adresse: http://ptony.github.io/point-jardin/
